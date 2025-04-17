@@ -1,0 +1,21 @@
+.mainContainer {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formContainer {
+  width: 320px;
+  height: 314px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.formContainer h1 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0%;
+}

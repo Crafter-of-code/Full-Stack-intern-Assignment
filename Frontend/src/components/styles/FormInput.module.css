@@ -1,0 +1,14 @@
+form input {
+  width: 290px;
+  height: 48px;
+  gap: 6px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  padding: 0rem 1rem;
+}
+form input:first-child {
+  margin-bottom: 0.6rem;
+}
+form input:last-child {
+  margin-top: 0.6rem;
+}
