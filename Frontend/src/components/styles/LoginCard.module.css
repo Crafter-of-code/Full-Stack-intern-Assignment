@@ -5,6 +5,10 @@
   justify-content: center;
   align-items: center;
 }
+.server_response_container {
+  position: absolute;
+  top: 0px;
+}
 .formContainer {
   width: 320px;
   height: 314px;
